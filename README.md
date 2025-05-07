@@ -1,5 +1,7 @@
 # Axis Skatepark Revival - 3D VR Experience
 
+[![Watch the demo](https://img.youtube.com/vi/w-wV_b5AbDE/0.jpg)](https://www.youtube.com/shorts/w-wV_b5AbDE)
+
 This is a 3D recreation of *Axis Skatepark* — the legendary skatepark where I grew up. Axis was pure chaos and energy: all-nighters, murderball, skatepark tours, Friday night madness, best trick contests, bands, and fireworks on the highway. It was a once-in-a-lifetime place that eventually shut down after a massive expansion attempt.
 
 Using YouTube footage and my memory of the original layout, dimensions, and ramp sizes, I rebuilt Axis in 3D and brought it back to life in VR. This project is a tribute to one of the greatest skateparks ever, preserving it in digital form for exploration and connection.
